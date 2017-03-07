@@ -1,0 +1,4 @@
+Id	EntryId	Url	Title	Summary	ContentType	Content	HtmlContent	Categories	IsDraft	Edited	Published	Updated												
+0	0	http://{BlogId}/entry/YYYY/mm/dd/HHMMSS	記事のタイトル	記事の概要	text/x-markdown	# 記事の内容	<h1>記事の内容</h1>	カテゴリ1,カテゴリ2	0	2000-01-01 00:00:00+09:00	2000-01-01 00:00:00+09:00	2000-01-01 00:00:00+09:00
+1	1	http://{BlogId}/entry/YYYY/mm/dd/HHMMSS	記事のタイトル1	記事の概要1	text/x-hatena-syntax	*記事の内容1	<h1>記事の内容1</h1>	カテゴリ1,カテゴリ2	0	2000-01-01 00:00:00+09:00	2000-01-01 00:00:00+09:00	2000-01-01 00:00:00+09:00
+
